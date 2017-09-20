@@ -4,10 +4,10 @@ This is a python-based plugin for the Hexchat IRC client that adds simple comman
 
 ### Installation
 
-For this plugin to work, make sure Hexchat is installed with the Python plugin (both 2 and 3 supported).
+For this plugin to work, make sure Hexchat is installed with the Python plugin (both 2 and 3 supported).  
 With Hexchat installed, dcc-trusted can be installed by placing it in the addons folder. By default, this is located:
 
-On Windows: `%APPDATA%\HexChat\addons`
+On Windows: `%APPDATA%\HexChat\addons`  
 On Unix: `~/.config/hexchat/addons`
 
 The plugin will now load by default when Hexchat is started. Look for `DCC trusted plugin loaded` in Hexchat's main window!
