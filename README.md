@@ -16,7 +16,7 @@ The plugin will now load by default when Hexchat is started. Look for `DCC trust
 
 There are three simple commands:
 
-1. /TRUST username - allows file requests from the username. Username is formatted as `nickname!username@host.name` (use /whois to check)
+1. /TRUST username - allows file requests from a user. Format is `nickname!username@host.name` (use /whois to check)
 2. /UNTRUST username - removes a user from the trusted list. Use this just like /TRUST
 3. /TRUST LIST - Lists all users currently trusted
 
