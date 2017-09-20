@@ -1,6 +1,6 @@
 # dcc-trusted
 
-This is a python-based plugin for the Hexchat IRC client that adds simple commands to whitelist other users (usually bots) for DCC file transfer offers. With this whitelist, users can set Hexchat auto accept DCC offers without fear of being sent files by random users.
+This is a python-based plugin for the Hexchat IRC client that adds simple commands to whitelist other users (usually bots) for DCC file transfer offers. With this whitelist, users can set Hexchat to auto accept DCC offers without fear of being sent files by random users.
 
 ### Installation
 
