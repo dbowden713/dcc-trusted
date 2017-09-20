@@ -153,4 +153,4 @@ hexchat.hook_unload(unload_cb)
 if DEBUG:
     hexchat.hook_server("RAW LINE", server_all_cb)
 
-hexchat.prnt("DCC trusted list loaded")
+hexchat.prnt("DCC trusted plugin loaded")

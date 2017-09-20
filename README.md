@@ -9,7 +9,7 @@ If you have Hexchat installed, dcc-trusted can be installed by placing it in the
 On Windows: `%APPDATA%\HexChat\addons`
 On Unix: `~/.config/hexchat/addons`
 
-The plugin will now load by default when Hexchat is started. Look for `DCC trusted list loaded` in Hexchat's main window!
+The plugin will now load by default when Hexchat is started. Look for `DCC trusted plugin loaded` in Hexchat's main window!
 
 ### Commands
 
